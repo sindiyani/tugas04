@@ -14,7 +14,7 @@
                 <img src="dist/img/avatar4.png" class="img-circle elevation-2" alt="User Image">
             </div>
             <div class="info">
-                <a href="#" class="d-block">Abdul Hamid</a>
+                <a href="#" class="d-block">Sindyi Yani</a>
             </div>
         </div>
  
